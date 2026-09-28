@@ -44,6 +44,6 @@
 
 ### 1. 取得程式碼與安裝依賴
 ```bash
-git clone [https://github.com/你的帳號/你的專案名稱.git](https://github.com/你的帳號/你的專案名稱.git)
-cd 你的專案名稱
+git clone https://github.com/Chuck-Huang-yung/Trading-Bot.git
+cd Trading-Bot
 pip install -r requirements.txt
