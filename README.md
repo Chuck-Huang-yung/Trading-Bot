@@ -16,7 +16,7 @@
 
 ## 🖥️ 實際操作畫面 - 智能下單與資產查詢
 
-![Uploading image.png…]()
+<img width="905" height="680" alt="image" src="https://github.com/user-attachments/assets/24b4c732-302f-4759-887a-87cecd4e038e" />
 
 ---
 
