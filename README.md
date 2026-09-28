@@ -59,7 +59,7 @@ Telegram-Trading-Bot/
 ├── requirements.txt        # 系統依賴環境設定檔
 ├── env_example             # 環境變數範本 (Telegram Token, API Keys)
 └── README.md               # 專案說明文件
-
+```
 
 ## 🚀 快速開始 (Quick Start)
 
