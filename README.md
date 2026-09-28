@@ -61,6 +61,8 @@ Telegram-Trading-Bot/
 └── README.md               # 專案說明文件
 ```
 
+---
+
 ## 🚀 快速開始 (Quick Start)
 
 ### 1. 取得程式碼與安裝依賴
@@ -68,3 +70,33 @@ Telegram-Trading-Bot/
 git clone https://github.com/Chuck-Huang-yung/Trading-Bot.git
 cd Trading-Bot
 pip install -r requirements.txt
+```
+
+### 2. 環境變數設定 (Environment Variables)
+請複製目錄下的 `env_example` 檔案，並將其重新命名為 `.env`，然後填入以下必備的金鑰：
+```env
+TELEGRAM_TOKEN=你的Telegram機器人Token
+BITGET_API_KEY=你的Bitget_API_KEY
+BITGET_API_SECRET=你的Bitget_API_SECRET
+BITGET_PASSPHRASE=你的Bitget_Passphrase
+GEMINI_API_KEY=你的Gemini_API_KEY
+```
+
+### 3. 啟動機器人
+```bash
+python main.py
+```
+(啟動成功後，終端機會顯示 Bot is running...)
+
+---
+
+## 📝 實用自然語言指令範例 (Examples)
+* **即時查價：** /price BTC
+* **市價開多：** sol多 10u 50x tp185 sl160 cross (全倉 50 倍，保證金 10 USDT)
+* **Exchange API:** btc limit 106000 3u 50x sl110000 isolated (逐倉 50 倍限價單)
+* **Security:** sol多 平倉5u (平掉保證金價值為 5U 的倉位)
+
+---
+
+## ⚠️ 免責聲明
+> 本專案僅供程式語言學習與技術展示交流之用。加密貨幣合約交易具有極高風險，使用本機器人進行實盤交易前，請確保您充分了解交易所 API 規則及自身風險承受能力，開發者對任何交易損失概不負責。
