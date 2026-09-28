@@ -5,9 +5,13 @@
 ![Bitget API](https://img.shields.io/badge/Bitget-API-000000)
 ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-LLM-8E75B2)
 
+---
+
 ## 📖 專案簡介
-本專案為了解決加密貨幣合約交易操作繁瑣、用戶在移動或辦公時不便開啟交易所 APP 的痛點而開發。
-我們結合了 **Google Gemini LLM** 的強大語意解析能力與 **Telegram Bot** 的高便利性，打造出一款能「聽懂」自然語言指令的智能交易機器人。使用者只需在對話框輸入簡單指令，系統便會自動完成 Bitget 交易所的合約下單與風控設置，實現直覺、安全、快速的交易體驗。
+> 本專案為了解決加密貨幣合約交易操作繁瑣、用戶在移動或辦公時不便開啟交易所 APP 的痛點而開發。
+> 我們結合了 **Google Gemini LLM** 的強大語意解析能力與 **Telegram Bot** 的高便利性，打造出一款能「聽懂」自然語言指令的智能交易機器人。使用者只需在對話框輸入簡單指令，系統便會自動完成 Bitget 交易所的合約下單與風控設置，實現直覺、安全、快速的交易體驗。
+
+---
 
 ## ✨ 核心功能 (Core Features)
 
