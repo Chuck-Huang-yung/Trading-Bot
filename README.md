@@ -43,11 +43,12 @@
 
 ---
 
-## 🛠️ 技術堆疊 (Tech Stack)
-* **Backend:** Python, `python-telegram-bot (v22.0)`
-* **AI Engine:** `google-generativeai`
-* **Exchange API:** `Bitget API (mix/v1)`, `requests`
-* **Security:** `hmac`, `hashlib`, `base64`
+## 🛠️ 技術棧 (Tech Stack)
+
+* **後端開發與通訊 (Backend)：** Python 3.10+, python-telegram-bot (非同步框架)
+* **AI 語意解析 (AI Engine)：** Google Gemini API (gemini-1.5-pro-latest)
+* **交易所串接 (Exchange API)：** Bitget U 本位合約 API (mix/v1), requests
+* **資安與環境配置 (Security & Env)：** HMAC-SHA256 簽名驗證, python-dotenv
 
 ---
 
