@@ -1,0 +1,5 @@
+TELEGRAM_TOKEN=##telegram機器人API
+BITGET_API_KEY=##bitgetAPI_KEY
+BITGET_API_SECRET=##bitgetAPI_SECRET
+BITGET_PASSPHRASE=##申請API時的Passphrase (API 口令)
+GEMINI_API_KEY=##AI的API(openAi、google等)
