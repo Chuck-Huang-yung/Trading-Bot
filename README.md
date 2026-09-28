@@ -93,8 +93,8 @@ python main.py
 ## 📝 實用自然語言指令範例 (Examples)
 * **即時查價：** `/price BTC`
 * **市價開多：** `sol多 10u 50x tp185 sl160 cross` (全倉 50 倍，保證金 10 USDT)
-* **Exchange API:** `btc limit 106000 3u 50x sl110000 isolated` (逐倉 50 倍限價單)
-* **Security:** `sol多 平倉5u` (平掉保證金價值為 5U 的倉位)
+* **Exchange API：** `btc limit 106000 3u 50x sl110000 isolated` (逐倉 50 倍限價單)
+* **Security：** `sol多 平倉5u` (平掉保證金價值為 5U 的倉位)
 
 ---
 
